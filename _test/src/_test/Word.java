@@ -1,6 +1,9 @@
+package _test;
+
 public class Word{
-    public satatic void main(String[] args){
-      System.out.pritlet("hellow");
+    public static void main(String[] args){
+      System.out.print("hellow");
+      System.out.print("第一次修改");
     
     }
 }
